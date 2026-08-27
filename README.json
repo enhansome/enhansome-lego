@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-26T11:14:15.485Z",
-    "original_repository": "ad-si/awesome-lego",
-    "original_repository_id": 30380625,
+    "last_updated": "2026-08-27T11:46:42.540Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 30380625,
+      "language": null,
+      "last_commit": "2026-06-18T10:13:43Z",
+      "owner": "ad-si",
+      "repo": "awesome-lego",
+      "stars": 428
+    },
     "original_repository_sha": "0826547420203bfcde063b611559b2ea003767af",
     "enhanced_repository": "enhansome/enhansome-lego",
     "enhanced_repository_description": null,
