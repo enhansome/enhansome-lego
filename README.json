@@ -1,15 +1,26 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T21:15:21.893Z",
+    "last_updated": "2026-08-29T04:42:51.973Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome LEGO resources",
+      "homepage": null,
       "id": 30380625,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-18T10:13:43Z",
+      "open_issues": 0,
       "owner": "ad-si",
       "repo": "awesome-lego",
-      "stars": 428
+      "stars": 428,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ldraw",
+        "lego",
+        "lego-cad"
+      ]
     },
     "original_repository_sha": "0826547420203bfcde063b611559b2ea003767af",
     "enhanced_repository": "enhansome/enhansome-lego",
