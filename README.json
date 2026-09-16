@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-09-15T15:17:21.665Z",
+    "last_updated": "2026-09-16T15:10:37.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome LEGO resources",
@@ -9,7 +9,7 @@
       "id": 30380625,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-06-18T10:13:43Z",
+      "last_commit": "2026-09-16T09:04:33Z",
       "open_issues": 0,
       "owner": "ad-si",
       "repo": "awesome-lego",
@@ -22,7 +22,7 @@
         "lego-cad"
       ]
     },
-    "original_repository_sha": "0826547420203bfcde063b611559b2ea003767af",
+    "original_repository_sha": "6b4c1e9d84da5b930b4810fadb5d214e3dafb432",
     "enhanced_repository": "enhansome/enhansome-lego",
     "enhanced_repository_description": null,
     "title": "Awesome LEGO with stars"
