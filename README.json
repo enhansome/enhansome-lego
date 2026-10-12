@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-11T16:25:55.701Z",
+    "last_updated": "2026-10-12T20:00:23.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome LEGO resources",
@@ -10,10 +10,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-16T09:04:33Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "ad-si",
       "repo": "awesome-lego",
-      "stars": 435,
+      "stars": 436,
       "topics": [
         "awesome",
         "awesome-list",
