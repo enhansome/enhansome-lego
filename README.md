@@ -147,6 +147,7 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 * [rioforce/lego-textures] - Textures scanned from real LEGO bricks.
 * [seankross/lego] - R data package featuring every LEGO set from 1970 to 2014.
 * [ldr\_wgpu][ldr_wgpu] - A Rust LDraw renderer using WGPU.
+* [BrickTracker] - Self-hosted web application for organizing and tracking LEGO sets, parts, and minifigures.
 
 [brickowl2rebrickable]: https://github.com/dgrant/brickowl2rebrickable
 
@@ -181,6 +182,8 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 [seankross/lego]: https://github.com/seankross/lego
 
 [ldr_wgpu]: https://github.com/ScanMountGoat/ldr_wgpu
+
+[BrickTracker]: https://gitea.baerentsen.space/FrederikBaerentsen/BrickTracker
 
 ## Competitors
 
@@ -379,4 +382,4 @@ A curated list of awesome LEGO software, archives, links, and other resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
